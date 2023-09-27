@@ -14,9 +14,9 @@ audio_url='https://ia801400.us.archive.org/34/items/duaa-ommy_001/002.mp3'
 image_urls = ["https://d.top4top.io/p_282466kf40.jpg",
               
               "https://j.top4top.io/p_28241r7ts2.jpg",
-              'https://k.top4top.io/p_2824vvr3c3.jpg',
+           #   'https://k.top4top.io/p_2824vvr3c3.jpg',
               'https://l.top4top.io/p_2824bxiqd4.jpg',
-              'https://k.top4top.io/p_2824egd6e0.jpg'
+           # 'https://k.top4top.io/p_2824egd6e0.jpg'
               ]
 
 # Generate HTML for a random image URL
