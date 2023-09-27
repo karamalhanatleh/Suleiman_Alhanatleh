@@ -9,8 +9,8 @@ import random
 
 
 
-#audio_url='https://ia801400.us.archive.org/34/items/duaa-ommy_001/002.mp3'
-audio_url='https://ia801906.us.archive.org/20/items/doaa-al-maiett/doaa-al-maiet-allahum-eghfir-lh.mp3'
+audio_url='https://ia801400.us.archive.org/34/items/duaa-ommy_001/002.mp3'
+#audio_url='https://ia801906.us.archive.org/20/items/doaa-al-maiett/doaa-al-maiet-allahum-eghfir-lh.mp3'
 image_urls = ["https://d.top4top.io/p_282466kf40.jpg",
               
               "https://j.top4top.io/p_28241r7ts2.jpg",
